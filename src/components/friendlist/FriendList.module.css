@@ -1,0 +1,11 @@
+.friends_list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.friends_list_item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
